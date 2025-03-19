@@ -15,7 +15,7 @@
     "csv": "^6.0.0",
     "dactic": "0.8.12",
     "dactic-store-mongodb": "1.0.15",
-    "debug": "^2.0.0",
+    "debug": "^4.4.0",
     "ejs": "~3.1.10",
     "express": "^4.21.2",
     "forever": "^4.0.0",
