@@ -31,7 +31,7 @@
     "request": "^2.87.0",
     "sleep-promise": "^9.1.0",
     "through2": "^4.0.2",
-    "uuid": "^8.1.0"
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
