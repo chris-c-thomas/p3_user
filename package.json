@@ -24,7 +24,7 @@
     "moment": "^2.29.4",
     "morgan": ">=1.9.1",
     "nconf": "0.11.4",
-    "nodemailer": "^6.9.9",
+    "nodemailer": "^6.10.0",
     "nodemailer-smtp-transport": "^0.1.13",
     "promised-io": "^0.3.4",
     "randomstring": "^1.0.3",
